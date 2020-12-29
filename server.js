@@ -33,11 +33,11 @@ var server = http.createServer(function (request, response) {
                       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
                 <meta http-equiv="X-UA-Compatible" content="ie=edge">
                 <title>canvas 画板</title>
-                <link href="deom.css" rel="stylesheet">
+                <link href="/x" rel="stylesheet">
             </head>
             <body>
                 <canvas id="canvas" width="300px" height="300px"></canvas>
-                <script src="javascript.js"></script>
+                <script src="/y"></script>
             </body>
             </html>
         `)
